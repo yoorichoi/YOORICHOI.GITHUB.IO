@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Yoori choi
+bio:                '2nd Year student, Univeristy of Toronto'
+description:        "A creater and developer"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            None
+facebook:           "http://www.facebook.com/yoori97"
+instagram:          "https://www.instagram.com/yr_ch_i/"
+github:             "http://www.github.com/yoorichoi"
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Toronto, ON, Canada
+phone:              647-676-7824
+email:              yr.choi@mail.utoronto.ca
 
 # Gems
 gems:
