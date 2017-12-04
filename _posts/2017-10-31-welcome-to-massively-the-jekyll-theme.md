@@ -6,4 +6,4 @@ excerpt: "First time ever participating a Hackathon"
 image: "/images/pic02.jpg"
 ---
 
-Will Updae Soon
+Will Update Soon
